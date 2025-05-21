@@ -10,4 +10,5 @@ A C++ project built using object-oriented programming principles to manage a dig
 
 ## Technologies
 - C++
+- Object-Oriented Programming
 - STL (`vector`, `map`)
